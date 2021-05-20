@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Supriya Sharma
-- 👀 I’m interested in learning newtechnologies
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Kotlin , Docker , AWS
 - 💞️ I’m looking to collaborate on Java , Kotlin ,JEE Technologies
 - 📫 How to reach me  supriya.igit@gmail.com
